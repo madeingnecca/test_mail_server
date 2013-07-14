@@ -1,0 +1,1 @@
+foo@bar.com:{plain}pass:1000:1000::/path/to/maildir/bar.com/foo::userdb_mail=maildir:~/Maildir

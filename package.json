@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+    	"underscore": ">= 0.0.1",
+    	"mkdirp": ">= 0.0.1"
+    },
+    "description": "A test mail server",
+    "name": "test_mail_server",
+    "version": "0.0.1"
+}

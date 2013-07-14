@@ -13,3 +13,8 @@ results
 
 npm-debug.log
 node_modules
+
+queue
+data/maildirs/*
+data/dovecot/log
+data/dovecot/passwd
